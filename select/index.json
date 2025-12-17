@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "不器用な人",
+  "base_artist": "エイハブ",
+  "createdAt": "2025-12-17T16:58:38.375623Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "不器用な人",
+      "artist": "エイハブ",
+      "has_synced": false,
+      "path": "select/pl_01_不器用な人_エイハブ.txt"
+    }
+  ]
+}
